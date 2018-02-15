@@ -1,0 +1,13 @@
+This is a mirror of https://github.com/OpenSIPS/opensips/tree/master/utils/vim
+
+
+Written for OpenSIPS 2.x, but will behave decently with older versions as well.
+
+Features:
+
+* global param validation
+* keyword validation
+* multi-line strings and comments
+* variable highlighting
+* transformation highlighting
+
